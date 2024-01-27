@@ -1,0 +1,4 @@
+﻿  FileName.cpp
+D:\GitHub\C-creat-everything\指针\指针\FileName.cpp(7,9): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\GitHub\C-creat-everything\指针\指针\FileName.cpp(7,9): message : 请考虑在格式字符串中使用“%zu”
+  指针.vcxproj -> D:\GitHub\C-creat-everything\指针\x64\Debug\指针.exe
